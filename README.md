@@ -1,2 +1,2 @@
 # pdd
-拼多多手机端项目
+运用vue构建的移动端项目，基于vant，mini和flex布局构建的移动端页面，用vuex管理购物车，个人信息数据，axios请求后台接口，animation.css和transition实现页面的动画效果
